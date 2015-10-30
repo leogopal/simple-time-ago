@@ -1,6 +1,6 @@
 === Simple Time Ago ===
-Contributors: hlashbrooke
-Donate link: http://www.hughlashbrooke.com/donate
+Contributors: leogopal
+Donate link: http://leogopal.com/donate
 Tags: wordpress, plugin, template
 Requires at least: 3.9
 Tested up to: 4.0

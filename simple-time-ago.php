@@ -2,18 +2,18 @@
 /*
  * Plugin Name: Simple Time Ago
  * Version: 1.0
- * Plugin URI: http://www.hughlashbrooke.com/
+ * Plugin URI: http://leogopal.com/
  * Description: This is your starter template for your next WordPress plugin.
- * Author: Hugh Lashbrooke
- * Author URI: http://www.hughlashbrooke.com/
- * Requires at least: 4.0
- * Tested up to: 4.0
+ * Author: Leo Gopal
+ * Author URI: http://leogopal.com/
+ * Requires at least: 4.3
+ * Tested up to: 4.3.1
  *
  * Text Domain: simple-time-ago
  * Domain Path: /lang/
  *
  * @package WordPress
- * @author Hugh Lashbrooke
+ * @author Leo Gopal
  * @since 1.0.0
  */
 
